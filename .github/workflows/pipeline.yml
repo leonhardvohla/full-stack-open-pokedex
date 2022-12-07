@@ -1,5 +1,4 @@
-name: Hello World!
-
+name: Linting
 on:
   push:
     branches:

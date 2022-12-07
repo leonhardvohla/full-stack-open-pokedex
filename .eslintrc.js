@@ -1,6 +1,6 @@
 module.exports = {
   "env": {
-    "browser": true,
+    "node": true,
     "es6": true,
     "jest/globals": true
   },
@@ -33,7 +33,7 @@ module.exports = {
     ],
     "semi": [
       "error",
-      "never"
+      "always"
     ],
     "eqeqeq": "error",
     "no-trailing-spaces": "error",
